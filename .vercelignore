@@ -1,0 +1,8 @@
+﻿backend/venv
+frontend/node_modules
+**/__pycache__
+**/*.pyc
+*.db
+docker
+test_live.py
+.pytest_cache
